@@ -1,3 +1,4 @@
 Um estudo simples a respeito dos algoritmos genéticos de busca, por meio da biblioteca MLROSE. Através de uma lista de produtos, que apresenta NOME, VOLUME e VALOR,
 (EX: 'rigerador A', 0.751, 999.90) o algoritmo busca identificar qual a melhor combinação de produtos para gerar o maior lucro possível em um espaço de 3 metros cúbicos.
 Este estudo faz parte de uma aula do curso "Inteligência Artificial e Machine Learning: O Guia Completo" por Jones Granatyr, pode ser encontrado na Udemy.
+O código foi construído e testado na plataforma Google Colab.
