@@ -1,7 +1,0 @@
-O projeto consiste em um sistema de busca no modelo A*, programado em Python. 
-O código em questão busca encontrar o caminho mais vantajoso até a cidade de Curitiba, partindo da cidade Porto União.
-Outras cidades podem ser usadas no sistema porém o código possui limitações.
-O mapa das cidades e suas distâncias está contido na pasta para melhor visualização e entendimento.
-
-Quaisquer recomendações e melhorias para o código são bem vindas.
-- Caio T.
